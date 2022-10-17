@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_dragdemo"]=self["webpackChunkvue_dragdemo"]||[]).push([[903],{97903:function(e,u,n){n.r(u),n.d(u,{default:function(){return d}});var t=function(){var e=this,u=e._self._c;return u("a-input",{attrs:{placeholder:"拖动输入框"}})},r=[],l={methods:{}},a=l,s=n(1001),c=(0,s.Z)(a,t,r,!1,null,null,null),d=c.exports}}]);
+//# sourceMappingURL=903.bc192ccd.js.map
